@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EventOrchestrator/EventOrchestrator.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EventOrchestrator.Tests/EventOrchestrator.Tests.csproj" />
+  </Folder>
+</Solution>
